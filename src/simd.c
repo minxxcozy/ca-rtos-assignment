@@ -1,7 +1,6 @@
 /*
  * simd.c  —  SIMD (AVX2 intrinsic) 버전
  *
- * 실제 강의 제공 파일이 있다면 이 파일을 덮어쓰세요.
  * 이 파일은 sisd.c와 완전히 동일한 연산을 AVX2 intrinsic으로 구현한 것입니다.
  *
  * 측정 대상 연산:
