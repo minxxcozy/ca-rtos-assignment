@@ -1,0 +1,461 @@
+compiler,tag,flags,target,run,time_ms
+gcc,gcc_O0,"-O0",sisd,1,570.000
+gcc,gcc_O0,"-O0",sisd,2,160.000
+gcc,gcc_O0,"-O0",sisd,3,170.000
+gcc,gcc_O0,"-O0",sisd,4,170.000
+gcc,gcc_O0,"-O0",sisd,5,150.000
+gcc,gcc_O0,"-O0",sisd,6,150.000
+gcc,gcc_O0,"-O0",sisd,7,150.000
+gcc,gcc_O0,"-O0",sisd,8,150.000
+gcc,gcc_O0,"-O0",sisd,9,150.000
+gcc,gcc_O0,"-O0",sisd,10,150.000
+gcc,gcc_O0,"-O0",simd,1,120.000
+gcc,gcc_O0,"-O0",simd,2,120.000
+gcc,gcc_O0,"-O0",simd,3,120.000
+gcc,gcc_O0,"-O0",simd,4,110.000
+gcc,gcc_O0,"-O0",simd,5,110.000
+gcc,gcc_O0,"-O0",simd,6,110.000
+gcc,gcc_O0,"-O0",simd,7,120.000
+gcc,gcc_O0,"-O0",simd,8,110.000
+gcc,gcc_O0,"-O0",simd,9,120.000
+gcc,gcc_O0,"-O0",simd,10,120.000
+gcc,gcc_O1,"-O1",sisd,1,80.000
+gcc,gcc_O1,"-O1",sisd,2,80.000
+gcc,gcc_O1,"-O1",sisd,3,80.000
+gcc,gcc_O1,"-O1",sisd,4,80.000
+gcc,gcc_O1,"-O1",sisd,5,80.000
+gcc,gcc_O1,"-O1",sisd,6,80.000
+gcc,gcc_O1,"-O1",sisd,7,80.000
+gcc,gcc_O1,"-O1",sisd,8,80.000
+gcc,gcc_O1,"-O1",sisd,9,80.000
+gcc,gcc_O1,"-O1",sisd,10,90.000
+gcc,gcc_O1,"-O1",simd,1,70.000
+gcc,gcc_O1,"-O1",simd,2,70.000
+gcc,gcc_O1,"-O1",simd,3,70.000
+gcc,gcc_O1,"-O1",simd,4,70.000
+gcc,gcc_O1,"-O1",simd,5,70.000
+gcc,gcc_O1,"-O1",simd,6,70.000
+gcc,gcc_O1,"-O1",simd,7,70.000
+gcc,gcc_O1,"-O1",simd,8,70.000
+gcc,gcc_O1,"-O1",simd,9,70.000
+gcc,gcc_O1,"-O1",simd,10,70.000
+gcc,gcc_O2,"-O2",sisd,1,70.000
+gcc,gcc_O2,"-O2",sisd,2,60.000
+gcc,gcc_O2,"-O2",sisd,3,60.000
+gcc,gcc_O2,"-O2",sisd,4,70.000
+gcc,gcc_O2,"-O2",sisd,5,60.000
+gcc,gcc_O2,"-O2",sisd,6,70.000
+gcc,gcc_O2,"-O2",sisd,7,60.000
+gcc,gcc_O2,"-O2",sisd,8,70.000
+gcc,gcc_O2,"-O2",sisd,9,70.000
+gcc,gcc_O2,"-O2",sisd,10,70.000
+gcc,gcc_O2,"-O2",simd,1,60.000
+gcc,gcc_O2,"-O2",simd,2,70.000
+gcc,gcc_O2,"-O2",simd,3,60.000
+gcc,gcc_O2,"-O2",simd,4,60.000
+gcc,gcc_O2,"-O2",simd,5,60.000
+gcc,gcc_O2,"-O2",simd,6,60.000
+gcc,gcc_O2,"-O2",simd,7,60.000
+gcc,gcc_O2,"-O2",simd,8,60.000
+gcc,gcc_O2,"-O2",simd,9,60.000
+gcc,gcc_O2,"-O2",simd,10,100.000
+gcc,gcc_O3,"-O3",sisd,1,50.000
+gcc,gcc_O3,"-O3",sisd,2,60.000
+gcc,gcc_O3,"-O3",sisd,3,60.000
+gcc,gcc_O3,"-O3",sisd,4,60.000
+gcc,gcc_O3,"-O3",sisd,5,50.000
+gcc,gcc_O3,"-O3",sisd,6,60.000
+gcc,gcc_O3,"-O3",sisd,7,70.000
+gcc,gcc_O3,"-O3",sisd,8,60.000
+gcc,gcc_O3,"-O3",sisd,9,50.000
+gcc,gcc_O3,"-O3",sisd,10,50.000
+gcc,gcc_O3,"-O3",simd,1,50.000
+gcc,gcc_O3,"-O3",simd,2,50.000
+gcc,gcc_O3,"-O3",simd,3,50.000
+gcc,gcc_O3,"-O3",simd,4,50.000
+gcc,gcc_O3,"-O3",simd,5,50.000
+gcc,gcc_O3,"-O3",simd,6,50.000
+gcc,gcc_O3,"-O3",simd,7,50.000
+gcc,gcc_O3,"-O3",simd,8,50.000
+gcc,gcc_O3,"-O3",simd,9,50.000
+gcc,gcc_O3,"-O3",simd,10,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,1,60.000
+gcc,gcc_Ofast,"-Ofast",sisd,2,60.000
+gcc,gcc_Ofast,"-Ofast",sisd,3,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,4,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,5,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,6,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,7,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,8,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,9,50.000
+gcc,gcc_Ofast,"-Ofast",sisd,10,50.000
+gcc,gcc_Ofast,"-Ofast",simd,1,50.000
+gcc,gcc_Ofast,"-Ofast",simd,2,50.000
+gcc,gcc_Ofast,"-Ofast",simd,3,50.000
+gcc,gcc_Ofast,"-Ofast",simd,4,70.000
+gcc,gcc_Ofast,"-Ofast",simd,5,50.000
+gcc,gcc_Ofast,"-Ofast",simd,6,50.000
+gcc,gcc_Ofast,"-Ofast",simd,7,50.000
+gcc,gcc_Ofast,"-Ofast",simd,8,50.000
+gcc,gcc_Ofast,"-Ofast",simd,9,50.000
+gcc,gcc_Ofast,"-Ofast",simd,10,50.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,1,70.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,2,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,3,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,4,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,5,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,6,70.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,7,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,8,70.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,9,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",sisd,10,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,1,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,2,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,3,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,4,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,5,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,6,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,7,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,8,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,9,60.000
+gcc,gcc_O2_native,"-O2 -march=native -mtune=native",simd,10,60.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,1,60.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,2,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,3,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,4,60.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,5,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,6,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,7,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,8,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,9,60.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",sisd,10,60.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,1,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,2,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,3,80.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,4,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,5,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,6,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,7,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,8,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,9,50.000
+gcc,gcc_O3_native,"-O3 -march=native -mtune=native",simd,10,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,1,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,2,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,3,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,4,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,5,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,6,70.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,7,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,8,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,9,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",sisd,10,60.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,1,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,2,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,3,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,4,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,5,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,6,90.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,7,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,8,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,9,50.000
+gcc,gcc_Ofast_native,"-Ofast -march=native -mtune=native",simd,10,50.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,1,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,2,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,3,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,4,70.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,5,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,6,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,7,70.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,8,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,9,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",sisd,10,70.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,1,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,2,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,3,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,4,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,5,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,6,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,7,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,8,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,9,60.000
+gcc,gcc_O2_unroll,"-O2 -funroll-loops",simd,10,60.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,1,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,2,60.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,3,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,4,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,5,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,6,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,7,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,8,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,9,60.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",sisd,10,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,1,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,2,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,3,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,4,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,5,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,6,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,7,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,8,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,9,50.000
+gcc,gcc_O3_unroll,"-O3 -funroll-loops",simd,10,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,1,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,2,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,3,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,4,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,5,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,6,60.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,7,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,8,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,9,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,10,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,1,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,2,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,3,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,4,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,5,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,6,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,7,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,8,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,9,50.000
+gcc,gcc_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,10,80.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,1,60.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,2,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,3,60.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,4,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,5,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,6,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,7,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,8,60.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,9,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",sisd,10,60.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,1,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,2,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,3,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,4,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,5,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,6,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,7,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,8,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,9,50.000
+gcc,gcc_O3_vec,"-O3 -ftree-vectorize",simd,10,50.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,1,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,2,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,3,80.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,4,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,5,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,6,80.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,7,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,8,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,9,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",sisd,10,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,1,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,2,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,3,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,4,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,5,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,6,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,7,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,8,70.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,9,60.000
+gcc,gcc_O3_novec,"-O3 -fno-tree-vectorize",simd,10,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,1,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,2,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,3,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,4,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,5,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,6,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,7,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,8,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,9,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",sisd,10,70.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,1,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,2,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,3,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,4,80.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,5,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,6,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,7,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,8,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,9,60.000
+gcc,gcc_O2_treevec,"-O2 -ftree-vectorize -march=native",simd,10,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,1,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,2,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,3,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,4,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,5,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,6,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,7,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,8,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,9,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",sisd,10,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,1,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,2,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,3,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,4,70.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,5,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,6,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,7,50.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,8,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,9,60.000
+gcc,gcc_Ofast_unroll_native,"-Ofast -funroll-loops -march=native -mtune=native",simd,10,70.000
+clang,clang_O0,"-O0",sisd,1,190.000
+clang,clang_O0,"-O0",sisd,2,240.000
+clang,clang_O0,"-O0",sisd,3,200.000
+clang,clang_O0,"-O0",sisd,4,190.000
+clang,clang_O0,"-O0",sisd,5,200.000
+clang,clang_O0,"-O0",sisd,6,190.000
+clang,clang_O0,"-O0",sisd,7,180.000
+clang,clang_O0,"-O0",sisd,8,180.000
+clang,clang_O0,"-O0",sisd,9,190.000
+clang,clang_O0,"-O0",sisd,10,210.000
+clang,clang_O0,"-O0",simd,1,150.000
+clang,clang_O0,"-O0",simd,2,160.000
+clang,clang_O0,"-O0",simd,3,150.000
+clang,clang_O0,"-O0",simd,4,170.000
+clang,clang_O0,"-O0",simd,5,160.000
+clang,clang_O0,"-O0",simd,6,150.000
+clang,clang_O0,"-O0",simd,7,140.000
+clang,clang_O0,"-O0",simd,8,140.000
+clang,clang_O0,"-O0",simd,9,150.000
+clang,clang_O0,"-O0",simd,10,160.000
+clang,clang_O1,"-O1",sisd,1,100.000
+clang,clang_O1,"-O1",sisd,2,90.000
+clang,clang_O1,"-O1",sisd,3,100.000
+clang,clang_O1,"-O1",sisd,4,90.000
+clang,clang_O1,"-O1",sisd,5,100.000
+clang,clang_O1,"-O1",sisd,6,90.000
+clang,clang_O1,"-O1",sisd,7,90.000
+clang,clang_O1,"-O1",sisd,8,90.000
+clang,clang_O1,"-O1",sisd,9,90.000
+clang,clang_O1,"-O1",sisd,10,80.000
+clang,clang_O1,"-O1",simd,1,80.000
+clang,clang_O1,"-O1",simd,2,70.000
+clang,clang_O1,"-O1",simd,3,70.000
+clang,clang_O1,"-O1",simd,4,70.000
+clang,clang_O1,"-O1",simd,5,70.000
+clang,clang_O1,"-O1",simd,6,80.000
+clang,clang_O1,"-O1",simd,7,70.000
+clang,clang_O1,"-O1",simd,8,70.000
+clang,clang_O1,"-O1",simd,9,80.000
+clang,clang_O1,"-O1",simd,10,70.000
+clang,clang_O2,"-O2",sisd,1,70.000
+clang,clang_O2,"-O2",sisd,2,70.000
+clang,clang_O2,"-O2",sisd,3,70.000
+clang,clang_O2,"-O2",sisd,4,70.000
+clang,clang_O2,"-O2",sisd,5,70.000
+clang,clang_O2,"-O2",sisd,6,70.000
+clang,clang_O2,"-O2",sisd,7,70.000
+clang,clang_O2,"-O2",sisd,8,70.000
+clang,clang_O2,"-O2",sisd,9,70.000
+clang,clang_O2,"-O2",sisd,10,90.000
+clang,clang_O2,"-O2",simd,1,120.000
+clang,clang_O2,"-O2",simd,2,70.000
+clang,clang_O2,"-O2",simd,3,60.000
+clang,clang_O2,"-O2",simd,4,70.000
+clang,clang_O2,"-O2",simd,5,70.000
+clang,clang_O2,"-O2",simd,6,60.000
+clang,clang_O2,"-O2",simd,7,70.000
+clang,clang_O2,"-O2",simd,8,60.000
+clang,clang_O2,"-O2",simd,9,60.000
+clang,clang_O2,"-O2",simd,10,70.000
+clang,clang_O3,"-O3",sisd,1,120.000
+clang,clang_O3,"-O3",sisd,2,80.000
+clang,clang_O3,"-O3",sisd,3,90.000
+clang,clang_O3,"-O3",sisd,4,110.000
+clang,clang_O3,"-O3",sisd,5,120.000
+clang,clang_O3,"-O3",sisd,6,110.000
+clang,clang_O3,"-O3",sisd,7,110.000
+clang,clang_O3,"-O3",sisd,8,80.000
+clang,clang_O3,"-O3",sisd,9,110.000
+clang,clang_O3,"-O3",sisd,10,180.000
+clang,clang_O3,"-O3",simd,1,70.000
+clang,clang_O3,"-O3",simd,2,80.000
+clang,clang_O3,"-O3",simd,3,90.000
+clang,clang_O3,"-O3",simd,4,90.000
+clang,clang_O3,"-O3",simd,5,120.000
+clang,clang_O3,"-O3",simd,6,110.000
+clang,clang_O3,"-O3",simd,7,80.000
+clang,clang_O3,"-O3",simd,8,80.000
+clang,clang_O3,"-O3",simd,9,90.000
+clang,clang_O3,"-O3",simd,10,80.000
+clang,clang_Ofast,"-Ofast",sisd,1,80.000
+clang,clang_Ofast,"-Ofast",sisd,2,80.000
+clang,clang_Ofast,"-Ofast",sisd,3,90.000
+clang,clang_Ofast,"-Ofast",sisd,4,80.000
+clang,clang_Ofast,"-Ofast",sisd,5,150.000
+clang,clang_Ofast,"-Ofast",sisd,6,80.000
+clang,clang_Ofast,"-Ofast",sisd,7,80.000
+clang,clang_Ofast,"-Ofast",sisd,8,80.000
+clang,clang_Ofast,"-Ofast",sisd,9,70.000
+clang,clang_Ofast,"-Ofast",sisd,10,70.000
+clang,clang_Ofast,"-Ofast",simd,1,60.000
+clang,clang_Ofast,"-Ofast",simd,2,70.000
+clang,clang_Ofast,"-Ofast",simd,3,70.000
+clang,clang_Ofast,"-Ofast",simd,4,80.000
+clang,clang_Ofast,"-Ofast",simd,5,70.000
+clang,clang_Ofast,"-Ofast",simd,6,80.000
+clang,clang_Ofast,"-Ofast",simd,7,70.000
+clang,clang_Ofast,"-Ofast",simd,8,80.000
+clang,clang_Ofast,"-Ofast",simd,9,70.000
+clang,clang_Ofast,"-Ofast",simd,10,90.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,1,80.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,2,150.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,3,90.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,4,70.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,5,80.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,6,90.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,7,90.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,8,90.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,9,100.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",sisd,10,130.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,1,80.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,2,70.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,3,80.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,4,70.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,5,70.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,6,70.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,7,100.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,8,160.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,9,70.000
+clang,clang_O3_native,"-O3 -march=native -mtune=native",simd,10,60.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,1,80.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,2,80.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,3,80.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,4,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,5,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,6,80.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,7,80.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,8,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,9,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",sisd,10,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,1,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,2,60.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,3,60.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,4,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,5,60.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,6,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,7,70.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,8,60.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,9,60.000
+clang,clang_Ofast_native,"-Ofast -march=native -mtune=native",simd,10,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,1,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,2,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,3,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,4,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,5,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,6,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,7,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,8,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,9,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",sisd,10,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,1,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,2,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,3,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,4,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,5,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,6,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,7,60.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,8,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,9,70.000
+clang,clang_O3_unroll_native,"-O3 -funroll-loops -march=native -mtune=native",simd,10,60.000
